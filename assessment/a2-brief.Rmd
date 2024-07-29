@@ -24,7 +24,7 @@ By the end of this assignment, you will have demonstrated to be able to:
 2. **Clean Data**: Perform data cleaning to ensure the dataset is accurate and ready for analysis.
 3. **Manipulate Data**: Apply data manipulation techniques to prepare the dataset for analysis.
 4. **Describe Data**: Use descriptive statistics and visualisations to summarise the dataset.
-5. **Analyse Data**: Conduct appropriate statistical analyses to address research questions or hypotheses.
+5. **Analyse Data**: Conduct appropriate statistical analyses to address a (simple) research question and hypothesis.
 6. **Report Results**: Present your findings in a clear and structured manner, using R Markdown to integrate code and output.
 
 ## Assignment Instructions
@@ -32,6 +32,7 @@ By the end of this assignment, you will have demonstrated to be able to:
 1. **Data Collection**:
    - Choose a dataset relevant to a social science topic of interest. This could be from publicly available sources such as government databases, online repositories, or research publications.
    - Ensure the dataset has enough variables and observations to perform meaningful analyses.
+   - In this exercise you should not use the same data you plan to use in your final research project.
 
 2. **Data Cleaning**:
    - Import the dataset into R.
@@ -56,7 +57,6 @@ By the end of this assignment, you will have demonstrated to be able to:
 
 ## Report Structure
 
-
 1. **Methods**:
    - Describe the dataset (use words, tables and/or figures) and the data collection process.
    - Outline the steps taken for data cleaning and manipulation.
@@ -74,7 +74,7 @@ By the end of this assignment, you will have demonstrated to be able to:
 - Submit your report as a PDF rendered from a .Rmd file.
 - Embed R code within the report to demonstrate how analyses were performed.
 - Include comments within your R code to explain each step of your analysis.
-- Compress and submit your project folder (.zip file). The folder should contain both the source .Rmd file and the dataset you used for the analysis.
+- Compress and submit your project folder (.zip file). The folder should contain the source .Rmd file, the .Rproj file and the dataset you used for the analysis.
 - The report should be 550-word long (±10%). To estimate the length of your report use the RStudio function "Edit -> Word count" on your source .Rmd file. 
 - Ensure the report is well-organised.
 - Your report should include at least one data visualisation.
