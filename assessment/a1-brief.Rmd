@@ -1,0 +1,59 @@
+---
+title: "Research proposal"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+  pdf_document: default
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Overview
+
+For this assignment, you are required to write a research proposal for your final research project. The proposal must be 700 words in length (±10%) and will focus on a research design that involves quantitative methods and data analysis addressing a social science research topic. You are not expected to collect the data yourself. Instead you should rely on available secondary data. 
+
+## Assignment Details
+
+Your research proposal should include the following sections:
+
+### 1. Introduction
+
+In this section, provide a brief introduction to your research topic. Explain the context and significance of the topic you have chosen. Discuss any relevant background information that will help to frame your study and clarify the broader context in which your research is situated.
+
+### 2. Purpose Statement
+
+The purpose statement should clearly articulate the intent of your research. It should specify what you aim to achieve through your research, such as exploring relationships between variables or examining the impact of certain factors on a given outcome.
+
+### 3. Hypothesis and Research Questions
+
+Next, outline your hypothesis and research questions. For quantitative research, your hypothesis should be a testable prediction about the relationships between variables. Additionally, formulate research questions that will guide your data analysis and help to narrow the focus of your study.
+
+### 4. Methods
+
+The methods section should detail the procedures you will use to conduct your research. This includes:
+
+- **Data Collection**: Describe the secondary data sources you will use. Explain why these data sources are appropriate for your study and how you will access them.
+- **Data Analysis**: Briefly outline the statistical methods and tools you plan to use to analyse the data. 
+
+### 5. Reference
+
+- Include all references cited in your report using APA style.
+
+## Evaluation Criteria
+
+Your research proposal will be evaluated based on the following criteria:
+
+- **Clarity and coherence of the introduction and purpose statement**: The introduction should provide a clear context for your research, and the purpose statement should succinctly outline the study's aims.
+- **Relevance and specificity of the hypothesis and research questions**: Your hypothesis and research questions should be clearly articulated and directly related to the purpose of your study.
+- **Appropriateness and detail of the methods section**: The methods should be sufficiently detailed, demonstrating a clear plan for data collection and analysis.
+
+## Submission Requirements
+
+- Submit your proposal as a PDF (.pdf) or a Word document (.docx).
+- The report should be 700-word long (±10%).
+

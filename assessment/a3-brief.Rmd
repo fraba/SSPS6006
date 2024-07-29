@@ -1,0 +1,67 @@
+---
+title: "Research project"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+  pdf_document: default
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Assignment Description
+
+For this assignment, you are required to design and conduct a data analysis project addressing specific research question(s). This project will develop and expand the research design presented in your proposal. This project will allow you to apply your quantitative research skills to analyse secondary data and interpret the results in the context of some theoretical framework of choice. The final report should be 3000 words in length and will demonstrate your ability to conduct a comprehensive research study.
+
+## Objectives
+
+By completing this assignment, you will:
+
+1. **Develop Research Questions**: Formulate clear and focused research questions based on a significant social science topic. Link your research questions to an explicit research hypothesis and theoretical framework.
+2. **Conduct a Literature Review**: Summarise existing research to provide context and justify your research.
+3. **Design a Research Methodology**: Outline the quantitative methods you will use to collect and analyse secondary data.
+4. **Perform Data Analysis**: Use appropriate statistical techniques and R to analyse the data and address your research questions.
+5. **Interpret and Report Findings**: Present your findings in a clear and structured manner, including visualisations and interpretations of the results.
+6. **Discuss Limitations**: Reflect on the limitation of your analysis.
+
+## Structure of the Research Project
+
+1. **Introduction**:
+   - Provide background information on your research topic.
+   - State the theoretical framework, the hypothesis and the research questions.
+
+2. **Methodology**:
+   - Describe your research design focusing on quantitative methods.
+   - Detail the secondary data sources you will use for your analysis.
+   - Explain the data analysis techniques you will use.
+
+3. **Data Analysis**:
+   - Import the dataset into R.
+   - Conduct your data analysis using R. 
+   - Present the results of your analysis using tables and figures.
+   - Include descriptive statistics, inferential statistics, and any other relevant analyses.
+
+4. **Discussion**:
+   - Interpret the results in the context of your research questions, hypothesis and theoretical framework.
+   - Address any limitations of your data analysis.
+
+5. **Conclusion**:
+   - Summarise the key findings of your study.
+   - Highlight the significance of your research and its contributions to the field.
+
+6. **References**:
+   - Include all references cited in your report using APA style.
+  
+## Submission Requirements
+
+- Submit your report as a PDF rendered from a .Rmd file.
+- Embed R code within the report to demonstrate how analyses were performed.
+- Include comments within your R code to explain each step of your analysis.
+- Compress and submit your project folder (.zip file). The folder should contain both the source .Rmd file and the dataset you used for the analysis.
+- The report should be 3000-word long (±10%). To estimate the length of your report use the RStudio function "Edit -> Word count" on your source .Rmd file. 
+- Ensure the report is well-organised.
+- Include comments within your R code to explain each step of your analysis.
+- Your report should include at least two data visualisations.
